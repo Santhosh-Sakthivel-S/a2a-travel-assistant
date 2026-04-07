@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+httpx
+aiohttp
+anyio
+python-dotenv
+orjson
+requests
+rich
