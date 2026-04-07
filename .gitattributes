@@ -1,1 +1,4 @@
 *.js linguist-vendored
+*.ts linguist-vendored
+*.jsx linguist-vendored
+*.tsx linguist-vendored
